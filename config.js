@@ -1,6 +1,6 @@
-let download_path = "./4_ky2_2021_2022.xlsx";
-let download_name = "4_ky2_2021_2022.xlsx";
-let title = "Kì 2 Năm học 2021 - 2022";
+let download_path = "./5_ky2- 2022-2023.xlsx";
+let download_name = "5_ky2- 2022-2023.xlsx";
+let title = "Kì 2 Năm học 2022 - 2023";
 
 // ---
 
